@@ -5,7 +5,7 @@ standard functions. Those functions are the re-written functions, done in purpos
 understand them, and learn to use them. This library will help you for all your future C
 projects.
  
- NAME
-  libft
- SYNOPSIS
-  #include "libft.h"
+ NAME\n
+  libft\n
+ SYNOPSIS\n
+  #include "libft.h"\n
